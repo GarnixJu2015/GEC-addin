@@ -1,0 +1,1 @@
+```cp gec-addin-manifest.xml ~/Library/Containers/com.microsoft.Word/Data/documents/wef```
