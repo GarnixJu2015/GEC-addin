@@ -1,6 +1,16 @@
 
 
+### made add-in in office
+```
+npm install 
 
+mv ~/Library/Containers/com.microsoft.Word/Data/Documents ~/Library/Containers/com.microsoft.Word/Data/documents
+
+mkdir ~/Library/Containers/com.microsoft.Word/Data/documents/wef
+
+cp my-office-add-in-manifest.xml ~/Library/Containers/com.microsoft.Word/Data/documents/wef
+
+```
 ### Issues on Certificate
 
 The project is constucted by [the official instruction](https://docs.microsoft.com/en-us/office/dev/add-ins/quickstarts/word-quickstart?tabs=visual-studio-code)
